@@ -1,0 +1,24 @@
+.top{
+	height: 100px;
+	background-color: green;
+}
+.main{
+	background-color: yellow;
+	height: 900px;
+}
+.block{
+	background-color: pink;
+	height: 900px;
+}
+.info{
+	background-color: cyan;
+	height: 600px;
+}
+.twitter{
+	width: 25px;
+	height: 25px;
+}
+.poloska{
+	height: 1px;
+	background-color: black;
+}
